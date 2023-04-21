@@ -1,0 +1,6 @@
+#category1,#category2,#category3,#category4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
